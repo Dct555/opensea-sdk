@@ -67,8 +67,8 @@
     "jsdom": "27.0.0",
     "typescript": "^6.0.2",
     "typescript-eslint": "^8.57.0",
-    "viem": "2.23.2",
-    "vitest": "^3.2.4",
+    "viem": "2.57.4",
+    "vitest": "^5.0.3",
     "@biomejs/biome": "2.5.2"
   },
   "keywords": [
